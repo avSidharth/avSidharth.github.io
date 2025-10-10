@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hi, this is Sidharth!
+subtitle: PhD student in Astronomy and Astrophysics
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Sidharth Aroli Veettil. I am a PhD student at the [Institute of Astrophysics](https://astro.uc.cl/) in the Pontificia Universidad Católica de Chile.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+### This site is under active development
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Come back later for more info!
