@@ -11,4 +11,4 @@ My name is Sidharth Aroli Veettil. I am a PhD student at the [Institute of Astro
 
 Come back later for more info!
 
-For now contact me via email:  `saroliv@estudiante.uc.cl`
+For now, you contact me via email:  `saroliv@estudiante.uc.cl`
