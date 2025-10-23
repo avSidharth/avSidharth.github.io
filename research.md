@@ -9,7 +9,7 @@ subtitle: More details coming soon!
 
 # 🔭 Research Projects
 
-My research interests bridge two fascinating extremes of stellar evolution — from the dying embers of stars to the chemistry that seeds new planetary systems.
+I have worked on two fascinating extremes of stellar evolution — from the dying embers of stars to the chemistry that seeds new planetary systems.
 
 ---
 
