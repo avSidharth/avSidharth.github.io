@@ -31,7 +31,7 @@ ALMA data reduction and analysis • Radiative transfer modeling • Isotopic fr
 
 ---
 
-## Past Research Projects
+## Past Research Projects:
 ## **Study of White Dwarfs using AstroSat/UVIT and Gaia DR3**
 *Research carried out as a Project Fellow at CHRIST University, Bangalore, India*
 
@@ -49,7 +49,8 @@ Multi-wavelength photometry (UVIT, Gaia) • Spectral energy distribution analys
 
 ---
 
-## **M.Sc. Thesis: Disk Evolution in Classical Be Stars**
+## **Disk Evolution in Classical Be Stars**
+* Master's Thesis*
 **Guide:** Dr. Blesson Mathew, Associate Professor, Dept. of Physics and Electronics, CHRIST University, Bangalore, India
 
 **Title:** *Study of Disk Evolution in Classical Be Stars Using LAMOST Medium-Resolution Spectra*
