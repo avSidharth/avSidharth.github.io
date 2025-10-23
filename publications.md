@@ -15,7 +15,7 @@ This page lists my peer-reviewed journal articles and preprints. Visit [NASA ADS
 
 ### 1. Detection of a new sample of Galactic white dwarfs in the direction of the Small Magellanic Cloud
 
-**Authors:** *A. V. Sidharth*, B. Shridharan, Blesson Mathew, A. Devaraj, T. B. Cysil, C. S. Stalin, R. Arun, Suman Bhattacharyya, Sreeja S. Kartha, and T. Robin
+**Authors:** **A. V. Sidharth** $\color{purple}{\text{This text is purple.}}$, B. Shridharan, Blesson Mathew, A. Devaraj, T. B. Cysil, C. S. Stalin, R. Arun, Suman Bhattacharyya, Sreeja S. Kartha, and T. Robin
 
 * **Journal:** *Astronomy & Astrophysics*, 690, A68
 * **DOI:** [10.1051/0004-6361/202450292](https://doi.org/10.1051/0004-6361/202450292) 
