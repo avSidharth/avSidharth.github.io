@@ -1,15 +1,19 @@
 ---
 layout: page
 title: Hi, this is Sidharth!
-subtitle: PhD student in Astronomy and Astrophysics
+subtitle: PhD Student in Astronomy & Astrophysics
 ---
 
-My name is Sidharth Aroli Veettil, and I am a PhD student at the [Institute of Astrophysics](https://astro.uc.cl/) at the Pontificia Universidad Católica de Chile.
+My name is **Sidharth Aroli Veettil**, and I am a Ph.D. student at the [Institute of Astrophysics](https://astro.uc.cl/), [Pontificia Universidad Católica de Chile](https://www.uc.cl/), where I study the chemistry of planet-forming regions and the origins of complex molecules in space.
 
-### I am still tinkering with this website!
+---
 
-Please check back later for more information!
+### 🧩 This website is still a work in progress!
 
-In the meantime, feel free to reach out to me via email at `saroliv@estudiante.uc.cl`.
+I’m currently setting up this site to showcase my **research**, **publications**, and **academic projects** — please check back soon for updates!
 
+In the meantime, feel free to reach out:
 
+📧 **Email:**  
+`saroliv@estudiante.uc.cl`  
+`sidharthnarayanan17@gmail.com`
