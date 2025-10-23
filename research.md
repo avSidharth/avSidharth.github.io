@@ -41,8 +41,7 @@ ALMA data reduction and analysis • Radiative transfer modeling • Isotopic fr
 **Focus:** Identification and characterization of a new population of **Galactic white dwarfs** (WDs) using UV and optical data.
 
 **Description:**  
-This project demonstrated the power of combining **Ultraviolet Imaging Telescope (UVIT)** and **Gaia DR3** data for large-scale WD discovery. We identified **43 single white dwarfs** (37 of them new) and derived their **masses**, **effective temperatures** (*T*<sub>eff</sub>), and **cooling ages** using WD evolutionary models. The study also reported **new extremely low-mass WD candidates** and estimated a **local WD space density** of approximately  
-ρ<sub>WD</sub> ≈ 1.3 × 10<sup>−3</sup> pc<sup>−3</sup>.
+This project demonstrated the power of combining **Ultraviolet Imaging Telescope (UVIT)** and **Gaia DR3** data for large-scale WD discovery. We identified **43 single white dwarfs** (37 of them new) and derived their **masses**, **effective temperatures** (*T*<sub>eff</sub>), and **cooling ages** using WD evolutionary models. The study also reported **new extremely low-mass WD candidates** and estimated the local WD space density.
 
 **Key Techniques & Tools:**  
 Multi-wavelength photometry (UVIT, Gaia) • Spectral energy distribution analysis • Stellar evolutionary models • Python scripting
@@ -51,6 +50,7 @@ Multi-wavelength photometry (UVIT, Gaia) • Spectral energy distribution analys
 
 ## **Disk Evolution in Classical Be Stars**
 *Master's Thesis*
+
 **Guide:** Dr. Blesson Mathew, Associate Professor, Dept. of Physics and Electronics, CHRIST University, Bangalore, India
 
 **Title:** *Study of Disk Evolution in Classical Be Stars Using LAMOST Medium-Resolution Spectra*
