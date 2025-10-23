@@ -50,7 +50,7 @@ Multi-wavelength photometry (UVIT, Gaia) • Spectral energy distribution analys
 ---
 
 ## **Disk Evolution in Classical Be Stars**
-* Master's Thesis*
+*Master's Thesis*
 **Guide:** Dr. Blesson Mathew, Associate Professor, Dept. of Physics and Electronics, CHRIST University, Bangalore, India
 
 **Title:** *Study of Disk Evolution in Classical Be Stars Using LAMOST Medium-Resolution Spectra*
