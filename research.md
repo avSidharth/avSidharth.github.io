@@ -13,7 +13,8 @@ I have worked on two fascinating extremes of stellar evolution — from the dyin
 
 ---
 
-## **Current Research: Astrochemistry and Protoplanetary Disks**
+## Current Research: 
+## **Astrochemistry and Protoplanetary Disks**
 *Ph.D. Research at Pontificia Universidad Católica de Chile*
 
 ### Project: *Nitrogen Isotope Chemistry in Protoplanetary Environments*
@@ -30,8 +31,9 @@ ALMA data reduction and analysis • Radiative transfer modeling • Isotopic fr
 
 ---
 
-## **Past Research: Stellar Populations and White Dwarfs**
-*M.Sc. Research*
+## Past Research Projects
+## **Study of White Dwarfs using AstroSat/UVIT and Gaia DR3**
+*Research carried out as a Project Fellow at CHRIST University, Bangalore, India*
 
 ### Publication  
 [**Detection of a new sample of Galactic white dwarfs in the direction of the Small Magellanic Cloud**](https://doi.org/10.1051/0004-6361/202450292)
@@ -48,8 +50,7 @@ Multi-wavelength photometry (UVIT, Gaia) • Spectral energy distribution analys
 ---
 
 ## **M.Sc. Thesis: Disk Evolution in Classical Be Stars**
-*June 2022 – May 2023, CHRIST (Deemed to be University), Bangalore, India*  
-**Guide:** Dr. Blesson Mathew, Associate Professor, Dept. of Physics and Electronics
+**Guide:** Dr. Blesson Mathew, Associate Professor, Dept. of Physics and Electronics, CHRIST University, Bangalore, India
 
 **Title:** *Study of Disk Evolution in Classical Be Stars Using LAMOST Medium-Resolution Spectra*
 
