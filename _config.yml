@@ -20,7 +20,7 @@ author: Sidharth Aroli-Veettil
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "index"
   Research: "research"
   Publications: "publications"
 
