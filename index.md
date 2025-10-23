@@ -4,7 +4,9 @@ title: Hi, this is Sidharth!
 subtitle: PhD Student in Astronomy & Astrophysics
 ---
 
-My name is **Sidharth Aroli Veettil**, and I am a Ph.D. student at the [Institute of Astrophysics](https://astro.uc.cl/), [Pontificia Universidad Católica de Chile](https://www.uc.cl/), where I study the chemistry of planet-forming regions and the origins of complex molecules in space.
+My name is **Sidharth Aroli-Veettil**, and I am a Ph.D. student at the [Institute of Astrophysics](https://astro.uc.cl/), [Pontificia Universidad Católica de Chile](https://www.uc.cl/).
+
+I am part of the [Astrochemistry Group at PUC](https://vvguzman.com/), where my research focuses on the **chemistry of protoplanetary disks**, the **fractionation of nitrogen isotopes**, and the **emergence of prebiotic molecules** during planet formation. I use **ALMA** observations, **radiative transfer modeling**, and **molecular line analysis** to study how complex chemistry evolves in these environments.
 
 ---
 
