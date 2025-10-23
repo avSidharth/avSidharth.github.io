@@ -12,30 +12,30 @@ My research portfolio spans two key areas of modern astrophysics: the final stag
 ---
 
 ## **Current Research: Astrochemistry and Protoplanetary Disks**
-*($\text{PhD}$ Research at Pontificia Universidad Católica de Chile)*
+*(PhD Research at Pontificia Universidad Católica de Chile)*
 
 ### Project: Nitrogen Isotope Chemistry in Protoplanetary Environments
 
-**Focus:** Investigating the evolution and fractionation of $\text{nitrogen-bearing compounds}$ in the disks where planets form.
+**Focus:** Investigating the evolution and fractionation of nitrogen-bearing compounds in the disks where planets form.
 
 **Description:**
-As a $\text{PhD}$ student, my specialization is the **nitrogen isotope chemistry** within protoplanetary disks. My research is centered on analyzing **$\text{ALMA}$ observations** of molecules like **hydrogen cyanide ($\text{HCN}$)** and its isotopologues. By studying the isotopic ratios and spatial distribution of these molecules, I aim to understand how nitrogen-bearing compounds evolve during the planet formation process and how these processes might contribute to the emergence of **prebiotic chemistry**. This work is conducted within the Astrochemistry Group at **$\text{PUC}$ Chile**.
+As a PhD student, my specialization is the **nitrogen isotope chemistry** within protoplanetary disks. My research is centered on analyzing **ALMA observations** of molecules like **hydrogen cyanide (HCN)** and its isotopologues. By studying the isotopic ratios and spatial distribution of these molecules, I aim to understand how nitrogen-bearing compounds evolve during the planet formation process and how these processes might contribute to the emergence of **prebiotic chemistry**. This work is conducted within the [Astrochemistry group at PUC](https://vvguzman.com/).
 
-**Key Techniques & Tools:** $\text{ALMA}$ data analysis, Radiative Transfer Modeling, Isotopic Fractionation, $\text{Python}$ ($\text{CASA}$, $\text{Astropy}$).
+**Key Techniques & Tools:** ALMA data reduction and analysis, Radiative Transfer Modeling, Isotopic Fractionation, Radio interferometry, CASA, etc.
 
 ---
 
 ## **Past Research: Stellar Populations and White Dwarfs**
-*($\text{M.Sc.}$ Research)*
+* (M.Sc. Research)*
 
-### Publication: Detection of a new sample of Galactic white dwarfs in the direction of the Small Magellanic Cloud
+### Publication: [Detection of a new sample of Galactic white dwarfs in the direction of the Small Magellanic Cloud](https://doi.org/10.1051/0004-6361/202450292) 
 
-**Focus:** Identifying and characterizing a new population of **Galactic white dwarfs** ($\text{WDs}$) using $\text{UV}$ and optical data.
+**Focus:** Identifying and characterizing a new population of **Galactic white dwarfs** (WDs) using UV and optical data.
 
 **Description:**
-This project demonstrated the efficacy of the **Ultraviolet Imaging Telescope ($\text{UVIT}$)** combined with **$\text{Gaia DR3}$** data for large-scale white dwarf discovery. We identified $43$ single $\text{WDs}$ ($37$ new detections) and used $\text{WD}$ evolutionary models to determine their masses, effective temperatures ($T_{\text{eff}}$), and cooling ages. The work included the detection of extremely low-mass $\text{WD}$ candidates and an estimate of the local $\text{WD}$ space density ($\approx 1.3 \times 10^{-3}\ \text{pc}^{-3}$).
+This project demonstrated the efficacy of the **Ultraviolet Imaging Telescope (UVIT)** combined with **Gaia DR3** data for large-scale white dwarf discovery. We identified 43 single WDs (37 new detections) and used WD evolutionary models to determine their masses, effective temperatures ($T_{eff}$), and cooling ages. The work included the detection of new extremely low-mass WD candidates and an estimate of the local WD space density ($\approx 1.3 \times 10^{-3}\ \text{pc}^{-3}$).
 
-**Key Techniques & Tools:** Multi-wavelength Photometry ($\text{UVIT}$, $\text{Gaia}$), Spectral Energy Distribution ($\text{SED}$) analysis, Stellar Evolutionary Models, $\text{Python}$ scripting.
+**Key Techniques & Tools:** Multi-wavelength Photometry (UVIT}, Gaia, Spectral Energy Distribution analysis, Stellar Evolutionary Models, Python scripting.
 
 | Publication Details | Link |
 | :--- | :--- |
