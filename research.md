@@ -13,7 +13,7 @@ I have worked on two fascinating extremes of stellar evolution — from the dyin
 
 ---
 
-## **Current Research: Astrochemistry and Protoplanetary Disks**
+## **Astrochemistry and Protoplanetary Disks**
 *Ph.D. Research at Pontificia Universidad Católica de Chile*
 
 ### Project: *Nitrogen Isotope Chemistry in Protoplanetary Environments*
@@ -30,7 +30,7 @@ ALMA data reduction and analysis • Radiative transfer modeling • Isotopic fr
 
 ---
 
-## **Past Research: Stellar Populations and White Dwarfs**
+## **Stellar Populations and White Dwarfs**
 *M.Sc. Research*
 
 ### Publication:  
