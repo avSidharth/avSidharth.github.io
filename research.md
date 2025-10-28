@@ -22,7 +22,7 @@ I have worked on two fascinating extremes of stellar evolution — from the dyin
 **Focus:** Investigating the evolution and fractionation of nitrogen-bearing compounds in planet-forming disks.
 
 **Description:**  
-As a Ph.D. student, I specialize in the **nitrogen isotope chemistry** of **protoplanetary disks**. My work involves analyzing **ALMA observations** of molecules such as **hydrogen cyanide (HCN)** and its isotopologues to study isotopic ratios and their spatial distributions. These diagnostics help us trace the **chemical and physical processes** that shape the evolution of nitrogen-bearing species during planet formation and their possible link to **prebiotic chemistry**.  
+As a Ph.D. student, I specialize in the **nitrogen isotope chemistry** of **protoplanetary disks**. My work involves analyzing **[ALMA observations](https://www.almaobservatory.org/en/about-alma/)** of molecules such as **hydrogen cyanide (HCN)** and its isotopologues to study isotopic ratios and their spatial distributions. These diagnostics help us trace the **chemical and physical processes** that shape the evolution of nitrogen-bearing species during planet formation and their possible link to **prebiotic chemistry**.  
 
 This research is conducted within the [Astrochemistry Group at PUC](https://vvguzman.com/).
 
