@@ -13,8 +13,7 @@ Visit [NASA ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0009-0006-4935-5
 
 **Authors:** <span style="color:#cc0000;">A. V. Sidharth, Meenakshi Purandardas, Sidharth Aroli-Veettil</span>, Shankar Ray, Blesson Mathew, Sreeja S Kartha, Sreeshma N M, Sreelakshmi Haridas
 **Journal:** * Monthly Notices of the Royal Astronomical Society  
-**DOI:** [[10.1051/0004-6361/202450292]([https://doi.org/10.1051/0004-6361/202450292](https://doi.org/10.1093/mnras/staf2215))](https://doi.org/10.1093/mnras/staf2215)
-
+**DOI:** [[10.1093/mnras/staf2215](https://doi.org/10.1093/mnras/staf2215)
 ---
 
 ## **2024**
