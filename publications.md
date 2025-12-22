@@ -11,7 +11,7 @@ Visit [NASA ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0009-0006-4935-5
 
 ### 2. High-Resolution Spectroscopy of HE 0225− 0546 and HE 1153− 0518: Probing the Progenitors through Abundance patterns and Kinematics
 
-**Authors:**  Meenakshi Purandardas, <span style="color:#cc0000;"> Sidharth Aroli-Veettil</span>, Shankar Ray, Blesson Mathew, Sreeja S Kartha, Sreeshma N M, Sreelakshmi Haridas
+**Authors:**  Meenakshi Purandardas, <span style="color:#cc0000;"> Sidharth Aroli-Veettil</span>, Shankar Ray, Blesson Mathew, Sreeja S Kartha, Sreeshma N M, Sreelakshmi Haridas  
 **Journal:**  Monthly Notices of the Royal Astronomical Society  
 **DOI:** [10.1093/mnras/staf2215](https://doi.org/10.1093/mnras/staf2215)
 
