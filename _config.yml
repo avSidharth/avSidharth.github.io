@@ -164,7 +164,8 @@ footer-hover-col: "#0085A1"
 # instead of colour
 
 
-navbar-img: "/‎assets/img/52211883799_9642668157_o (1).png"
+navbar-img: "/‎assets/img/jwst-background.png"
+footer-img: "/‎assets/img/jwst-background.png"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
