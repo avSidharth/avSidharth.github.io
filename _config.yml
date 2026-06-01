@@ -76,7 +76,8 @@ social-network-links:
 #  mastodon: instance.url/@username
   bluesky: avsidharth.bsky.social
   ORCID: 0009-0006-4935-5453
-  google-scholar: citations?user=pReGxG0AAAAJ&hl=en
+  google-scholar: https://scholar.google.com/citations?user=pReGxG0AAAAJ&hl=en
+  #citations?user=pReGxG0AAAAJ&hl=en
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
