@@ -18,4 +18,4 @@ In the meantime, feel free to reach out:
 
 📧 **Email:**  
 `saroliv@estudiante.uc.cl`  
-`sidharthnarayanan17@gmail.com`
+`sidhartharoli@gmail.com`
