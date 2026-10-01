@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/Sidharth_headshot.jpeg"
+avatar: "/assets/img/sidharth_avatar.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -77,7 +77,7 @@ social-network-links:
 #  mastodon: instance.url/@username
   bluesky: avsidharth.bsky.social
   ORCID: 0009-0006-4935-5453
-  google-scholar: https://scholar.google.com/citations?user=pReGxG0AAAAJ&hl=en
+  google-scholar: pReGxG0AAAAJ
   #citations?user=pReGxG0AAAAJ&hl=en
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
@@ -177,8 +177,8 @@ footer-hover-col: "#0085A1"
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-#site-css:
-#  - "/assets/css/custom-styles.css"
+site-css:
+  - "/assets/css/custom.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
 #site-js:
@@ -278,7 +278,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Santiago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -302,6 +302,10 @@ defaults:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+      cover-img:
+        - "/assets/img/alma_banner.jpg": "ALMA antennas under the Milky Way. Credit: NSF/AUI/NSF NRAO/B. Foott"
+      share-img: "/assets/img/sidharth_share.jpg"
+      share-description: "Sidharth Aroli-Veettil, PhD student at Pontificia Universidad Católica de Chile, studying carbon and nitrogen chemistry in planet-forming disks with ALMA."
 
 # Exclude these files from production site
 exclude:

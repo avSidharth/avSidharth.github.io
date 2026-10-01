@@ -4,34 +4,23 @@ title: Research
 subtitle: Carbon and nitrogen chemistry in planet-forming disks
 ---
 
-<style>
-.rcards { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 22px; align-items: start; margin: 18px 0 34px; }
-.rcard { border: 1px solid #ddd; border-radius: 10px; overflow: hidden; background: #fff; transition: box-shadow .2s ease; }
-.rcard:hover, .rcard[open] { box-shadow: 0 4px 16px rgba(0,0,0,.12); }
-.rcard summary { list-style: none; cursor: pointer; }
-.rcard summary::-webkit-details-marker { display: none; }
-.rcard summary img { display: block; width: 100%; aspect-ratio: 2.2 / 1; object-fit: cover; background: #f4f4f4; }
-.rcard .rhead { padding: 14px 16px 12px; }
-.rcard .rtag { font-size: .75em; font-weight: bold; text-transform: uppercase; letter-spacing: .03em; }
-.rcard h3 { margin: 6px 0 6px; font-size: 1.15em; line-height: 1.3; }
-.rcard .teaser { font-size: .92em; margin: 0 0 8px; color: #555; }
-.rcard .more { font-size: .85em; font-weight: bold; }
-.rcard .more::after { content: " \25BE"; display: inline-block; transition: transform .2s ease; }
-.rcard[open] .more::after { transform: rotate(180deg); }
-.rcard[open] .more-label::before { content: "Show less"; }
-.rcard:not([open]) .more-label::before { content: "Read more"; }
-.rcard .rbody { padding: 0 16px 16px; font-size: .93em; border-top: 1px solid #eee; }
-.rcard .rbody p { margin: 12px 0 0; }
-.rcard .rtools { font-size: .88em; color: #555; }
-</style>
 
-My PhD research, in the [Astrochemistry Group at PUC](https://vvguzman.com/) with Dr Viviana Guzmán, studies how **carbon and nitrogen** are processed in the **UV-irradiated layers of planet-forming disks**, and how this processing is imprinted in their isotope ratios. Click a card to read more.
+<div class="intro-fig">
+  <figure>
+    <img src="/assets/img/sidharth_at_alma.jpg" alt="Sidharth at the ALMA array on the Chajnantor plateau">
+    <figcaption>At the ALMA array on the Chajnantor plateau (5,000&nbsp;m).</figcaption>
+  </figure>
+  <div>
+    <p>My PhD research, in the <a href="https://vvguzman.com/">Astrochemistry Group at PUC</a> with Dr Viviana Guzmán, studies how <b>carbon and nitrogen</b> are processed in the <b>UV-irradiated layers of planet-forming disks</b>, and how this processing is imprinted in their isotope ratios.</p>
+    <p>Most of my work uses observations from <b>ALMA</b>, the Atacama Large Millimeter/submillimeter Array, to map molecules such as HCN, CN and C<sub>2</sub>H and their isotopologues in disks around young stars. Click a card below to read more about each project.</p>
+  </div>
+</div>
 
 ## Current research
 
 <div class="rcards">
 
-<details class="rcard">
+<details class="rcard" id="v4046">
   <summary>
     <img src="/assets/img/research/v4046sgr_hcn_maps.jpg" alt="ALMA HCN and HC15N 4-3 maps of the V4046 Sgr disk">
     <div class="rhead">
@@ -49,7 +38,7 @@ My PhD research, in the [Astrochemistry Group at PUC](https://vvguzman.com/) wit
   </div>
 </details>
 
-<details class="rcard">
+<details class="rcard" id="deco">
   <summary>
     <img src="/assets/img/research/deco_cn_c2h_hcn.jpg" alt="HCN, C2H and CN maps of the J1608-3828 disk">
     <div class="rhead">
@@ -67,7 +56,7 @@ My PhD research, in the [Astrochemistry Group at PUC](https://vvguzman.com/) wit
   </div>
 </details>
 
-<details class="rcard">
+<details class="rcard" id="lupus">
   <summary>
     <img src="/assets/img/research/lupus_rgas_rdust.jpg" alt="Lower limits on the gas-to-dust size ratio of compact disks in Lupus">
     <div class="rhead">
@@ -91,7 +80,7 @@ My PhD research, in the [Astrochemistry Group at PUC](https://vvguzman.com/) wit
 
 <div class="rcards">
 
-<details class="rcard">
+<details class="rcard" id="white-dwarfs">
   <summary>
     <img src="/assets/img/research/uvit_smc_field.jpg" alt="AstroSat/UVIT field towards the Small Magellanic Cloud with sources marked">
     <div class="rhead">
@@ -108,7 +97,7 @@ My PhD research, in the [Astrochemistry Group at PUC](https://vvguzman.com/) wit
   </div>
 </details>
 
-<details class="rcard">
+<details class="rcard" id="be-stars">
   <summary>
     <img src="/assets/img/research/be_halpha_profiles.jpg" alt="Multi-epoch H-alpha line profiles of classical Be stars from LAMOST">
     <div class="rhead">
@@ -126,3 +115,13 @@ My PhD research, in the [Astrochemistry Group at PUC](https://vvguzman.com/) wit
 </details>
 
 </div>
+
+<script>
+  // Open and scroll to the card named in the URL hash (e.g. /research/#deco)
+  function openCardFromHash() {
+    var el = location.hash && document.getElementById(location.hash.slice(1));
+    if (el && el.tagName === 'DETAILS') { el.open = true; el.scrollIntoView({behavior: 'smooth', block: 'start'}); }
+  }
+  window.addEventListener('hashchange', openCardFromHash);
+  document.addEventListener('DOMContentLoaded', openCardFromHash);
+</script>
