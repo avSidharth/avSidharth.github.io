@@ -7,8 +7,8 @@ subtitle: Carbon and nitrogen chemistry in planet-forming disks
 
 <div class="intro-fig">
   <figure>
-    <img src="/assets/img/sidharth_at_alma.jpg" alt="Sidharth at the ALMA array on the Chajnantor plateau">
-    <figcaption>At the ALMA array on the Chajnantor plateau (5,000&nbsp;m).</figcaption>
+    <img src="/assets/img/sidharth_at_alma.jpg" alt="Sidharth at the ALMA Array Operations Site (AOS)">
+    <figcaption>At the ALMA Array Operations Site (AOS), 5,000&nbsp;m.</figcaption>
   </figure>
   <div>
     <p>My PhD research, in the <a href="https://vvguzman.com/">Astrochemistry Group at PUC</a> with Dr Viviana Guzmán, studies how <b>carbon and nitrogen</b> are processed in the <b>UV-irradiated layers of planet-forming disks</b>, and how this processing is imprinted in their isotope ratios.</p>
