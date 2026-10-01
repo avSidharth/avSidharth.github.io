@@ -146,3 +146,11 @@ html[data-theme="dark"] .post-preview { border-bottom-color: var(--line); }
 /* soften bright white-background figures slightly */
 html[data-theme="dark"] .rcard summary img,
 html[data-theme="dark"] .hl-card img { filter: brightness(.92); }
+
+/* Toggle label: shown only in the collapsed (hamburger) menu, like "Search" */
+#theme-toggle .theme-label { display: none; margin-left: 6px; }
+#theme-toggle .theme-label::before { content: "Dark mode"; }
+html[data-theme="dark"] #theme-toggle .theme-label::before { content: "Light mode"; }
+@media (max-width: 1199px) {
+  #theme-toggle .theme-label { display: inline; }
+}
