@@ -23,6 +23,7 @@ navbar-links:
   About Me: "index"
   Research: "research"
   Publications: "publications"
+  Talks: "talks"
 
 
 ################
@@ -130,7 +131,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "Sidharth Aroli Veettil, Aroli-Veettil, PUC Chile, ALMA, nitrogen isotopes, astrophysics, astrochemistry, protoplanetary disks"
+keywords: "Sidharth Aroli Veettil, Aroli-Veettil, PUC Chile, ALMA, nitrogen isotopes, astrophysics, astrochemistry, protoplanetary disks, carbon isotopes, photochemistry, DECO"
 
 ######################################
 # --- Colours / background image --- #
