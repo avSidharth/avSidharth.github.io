@@ -46,14 +46,16 @@ title: Talks & Workshops
 ## Schools & workshops
 
 <div class="tl">
-  <div class="when">Nov 2026</div>
-  <div class="what">First Chilean ALMA Users School</div>
+
 
   <div class="when">May 2026</div>
   <div class="what">21st NRAO Synthesis Imaging Workshop</div>
 
   <div class="when">2026</div>
   <div class="what">ALMA Proposal Preparation Workshop</div>
+
+  <div class="when">Nov 2025</div>
+  <div class="what">First Chilean ALMA Users School</div>
 
   <div class="when">2025</div>
   <div class="what">ALMA Data Reduction Workshop</div>
